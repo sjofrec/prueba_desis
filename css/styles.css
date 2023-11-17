@@ -1,0 +1,32 @@
+form {
+    margin-top: 20px;
+}
+label {
+    flex-basis: 13%;
+    text-align: left;
+    padding-right: 10px;
+}
+.form_group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+/* Color y margen para mensaje de error */
+#errorAlias {
+    color: red;
+    font-style: italic;
+    margin-left: 10px;
+}
+#errorRut {
+    color: red;
+}
+#errorEmail{
+    color: red;
+    font-style: italic;
+    margin-left: 10px;
+}
+#errorCheck{
+    color: red;
+    font-style: italic;
+    margin-left: 10px;
+}
